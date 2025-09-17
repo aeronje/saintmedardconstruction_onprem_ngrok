@@ -5,6 +5,7 @@ This is a fictional parody site created for technical content. Any resemblance t
 
 Directory structure:
 └── aeronje-saintmedardconstruction_onprem_ngrok/
+
     ├── README.md
     ├── saintmedard.js
     └── public/
